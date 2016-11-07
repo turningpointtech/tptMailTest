@@ -1,0 +1,11 @@
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\bin\Debug\tptMailTest.exe.config
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\bin\Debug\tptMailTest.exe
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\bin\Debug\tptMailTest.pdb
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\obj\Debug\tptMailTest.csprojResolveAssemblyReference.cache
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\obj\Debug\tptMailTest.Form1.resources
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\obj\Debug\tptMailTest.Properties.Resources.resources
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\obj\Debug\tptMailTest.csproj.GenerateResource.Cache
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\obj\Debug\tptMailTest.exe
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\obj\Debug\tptMailTest.pdb
+C:\Users\Josh.TPTECH\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\bin\Debug\ImapX.dll
+C:\Users\Josh.TPTECH\documents\visual studio 2015\Projects\tptMailTest\tptMailTest\bin\Debug\OpenPop.dll
